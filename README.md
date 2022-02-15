@@ -1,3 +1,3 @@
 # Quiz
 - Bitirdiyim muddet: 2 gun
-- Istifade etdiyim texnologiyalar:HTML,SASS,JavaScript
+- İstifade etdiyim texnologiyalar:HTML,SASS,JavaScript
